@@ -1,0 +1,1 @@
+Le Product Owner est le garant de la bonne réalisation d'un produit. Dans une DSI, il traduit le besoin du client auprès des concepteurs/développeurs et s'assure de la bonne conception du produit, en mode agile.
